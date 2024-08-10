@@ -9,4 +9,4 @@
 - `-particles 1` — Reduces particle detail
 - `-precachefontchars` — Preloads all font characters to reduce stuttering
 - `-w 1920 -h 1080` — Sets resolution to 1920x1080
-- `+exec preloader.cfg` — Runs the `preloader.cfg` file on launch (needed for the preloader in tf/custom)
+- `+exec preloader.cfg` — Runs the `preloader.cfg` file on launch (needed for the preloader in `tf\custom`)
